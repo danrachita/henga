@@ -1,0 +1,26 @@
+# /etc/conf.d/hengad: config file for /etc/init.d/hengad
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/henga/henga.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/hengad"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/hengad.pid"
+
+# Where to write hengad data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/hengad"
+
+# User and group to own hengad process
+#BITCOIND_USER="henga"
+#BITCOIND_GROUP="henga"
+
+# Path to hengad executable
+#BITCOIND_BIN="/usr/bin/hengad"
+
+# Nice value to run hengad under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

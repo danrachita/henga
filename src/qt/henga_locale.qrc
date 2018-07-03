@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/henga_bg.qm</file>
+        <file alias="de">locale/henga_de.qm</file>
+        <file alias="en">locale/henga_en.qm</file>
+        <file alias="es">locale/henga_es.qm</file>
+        <file alias="fi">locale/henga_fi.qm</file>
+        <file alias="fr">locale/henga_fr.qm</file>
+        <file alias="it">locale/henga_it.qm</file>
+        <file alias="ja">locale/henga_ja.qm</file>
+        <file alias="pl">locale/henga_pl.qm</file>
+        <file alias="pt">locale/henga_pt.qm</file>
+        <file alias="ru">locale/henga_ru.qm</file>
+        <file alias="sk">locale/henga_sk.qm</file>
+        <file alias="sv">locale/henga_sv.qm</file>
+        <file alias="vi">locale/henga_vi.qm</file>
+        <file alias="zh_CN">locale/henga_zh_CN.qm</file>
+        <file alias="zh_TW">locale/henga_zh_TW.qm</file>
+    </qresource>
+</RCC>

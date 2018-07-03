@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=NGH
+Comment=NGH P2P Cryptocurrency
+Exec=henga-qt %u
+Terminal=false
+Type=Application
+Icon=henga128
+MimeType=x-scheme-handler/henga;
+Categories=Office;Finance;
+Name[en_US]=henga-qt.desktop
