@@ -22,7 +22,7 @@ packages:
 - "ca-certificates"
 - "python"
 remotes:
-- "url": "https://github.com/henga/henga.git"
+- "url": "https://github.com/danrachita/henga.git"
   "dir": "henga"
 files: []
 script: |
