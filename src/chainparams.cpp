@@ -137,9 +137,13 @@ public:
         assert(genesis.hashMerkleRoot == uint256("0x6e5d173606496ce9a18645d1bd63b844650d973d27cc57043376f2cebaee1b34"));
         
 
-        vSeeds.push_back(CDNSSeedData("seed1.henga.io", "seed1.henga.io"));
-        vSeeds.push_back(CDNSSeedData("seed2.henga.io", "seed2.henga.io"));
-        vSeeds.push_back(CDNSSeedData("seed3.henga.io", "seed3.henga.io"));
+        vSeeds.push_back(CDNSSeedData("104.207.138.65", "104.207.138.65"));
+        vSeeds.push_back(CDNSSeedData("108.61.87.12", "108.61.87.12"));
+        vSeeds.push_back(CDNSSeedData("144.202.63.36", "144.202.63.36"));
+	vSeeds.push_back(CDNSSeedData("149.28.42.9", "149.28.42.9"));
+	vSeeds.push_back(CDNSSeedData("207.148.12.23", "207.148.12.23"));
+	vSeeds.push_back(CDNSSeedData("45.76.24.100", "45.76.24.100"));
+	vSeeds.push_back(CDNSSeedData("45.77.218.101", "45.77.218.101"));
         //vFixedSeeds.clear();
         //vSeeds.clear();
 
