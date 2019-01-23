@@ -13,7 +13,10 @@ Default Network Ports:
 Port: 19441
 RPC Port: 28211
 
-Name / ticker : Henga / NGH                                                                                                                                                                                Logo : https://imgur.com/QKzZHqm
+Name / ticker : Henga / NGH     
+
+Logo : https://imgur.com/QKzZHqm
+
 Site: http://henga.online/ 
 
 Explorer: http://217.61.1.12:3001/
@@ -28,6 +31,4 @@ Join us: https://discord.gg/XDkjyCH
 
 Exchange: https://cratex.io/index.php?pair=NGH/BTC
 
-          https://cratex.io/index.php?pair=NGH/LTC
-          
-          https://cratex.io/index.php?pair=NGH/BTCZ
+         
