@@ -17,18 +17,20 @@ Name / ticker : Henga / NGH
 
 Logo : https://imgur.com/QKzZHqm
 
-Site: http://henga.online/ 
+Github: https://github.com/danrachita/henga
+
+Website: http://henga.online/
 
 Explorer: http://217.61.1.12:3001/
 
-Github: https://github.com/danrachita/henga
-
-ANN old: https://bitcointalk.org/index.php?topic=4588840.new#new
-
-MNO: https://masternodes.online/currencies/NGH/ 
-
-Join us: https://discord.gg/XDkjyCH
+Discord: https://discord.gg/XDkjyCH
 
 Exchange: https://cratex.io/index.php?pair=NGH/BTC
+
+Masternodes Online: https://masternodes.online/currencies/NGH/
+
+old ANN   https://bitcointalk.org/index.php?topic=4588840.0
+
+new ANN   https://bitcointalk.org/index.php?topic=5104006.msg49494917#msg49494917
 
          
