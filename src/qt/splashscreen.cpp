@@ -35,7 +35,7 @@ SplashScreen::SplashScreen(Qt::WindowFlags f, const NetworkStyle* networkStyle) 
 
     // define text to place
     QString titleText = tr("Henga");
-    QString versionText = tr("v2.0.0.0");
+    QString versionText = QString(tr("Version %1")).arg(QString::fromStdString(FormatFullVersion()));
     QString copyrightTextBtc = QChar(0xA9) + QString(" 2009-%1 ").arg(COPYRIGHT_YEAR) + QString(tr("The Bitcoin Core developers"));
     QString copyrightTextNGH = QChar(0xA9) + QString(" 2019 ").arg(COPYRIGHT_YEAR) + QString(tr("The P2P developers"));
     QString titleAddText = networkStyle->getTitleAddText();
